@@ -1,2 +1,1 @@
-# Truth-Table-Solver
-A python algorithm that solves truth table operations.
+My teacher in college challenged every student to create an algorithm that could solve any truth table operation, if any of us were able to do it successfully that person wouldn't have to do the exam and would instantly pass on the class. Out of about 100 students i was the only one that got even remotely close to getting it right, and i managed to complete the challenge successfully, and here it is.
